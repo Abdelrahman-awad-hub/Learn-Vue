@@ -28,7 +28,7 @@
         <div class="col-5">
             <div class="mb-3">
                 <label for="exampleFormControlTextarea1" class="form-label"
-                    >Link Name</label
+                    >Link Name :)</label
                 >
                 <input
                     class="form-control form-control-lg"
